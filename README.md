@@ -1,16 +1,22 @@
-## Hi there 👋
+# José Carlos
 
-<!--
-**josecarlosjccf/josecarlosjccf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+Olá! Meu nome é José Carlos, sou estudante de **Sistemas de Informação** e apaixonado por tecnologia, programação e inovação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Habilidades e Tecnologias
+
+- **Linguagens**: Python, JavaScript, Java, C
+- **Ferramentas de Desenvolvimento**: Git, GitHub, VSCode
+- **Framework**: Node.js
+- **Banco de Dados**: MySQL
+
+---
+
+## Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-candido-73b723235/)
+- **E-mail**: seuemail@exemplo.com
+
