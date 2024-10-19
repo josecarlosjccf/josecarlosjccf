@@ -18,5 +18,3 @@ Olá! Meu nome é José Carlos, sou estudante de **Sistemas de Informação** e 
 ## Como me encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-carlos-candido-73b723235/)
-- **E-mail**: seuemail@exemplo.com
-
