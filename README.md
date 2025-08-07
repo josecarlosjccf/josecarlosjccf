@@ -1,5 +1,3 @@
-<!-- PERFIL DE USUÁRIO - JOSÉ CARLOS -->
-
 <h1 align="center">José Carlos</h1>
 
 <p align="center" style="pointer-events: none;">
@@ -14,6 +12,10 @@
 
 ## 👨‍💻 Sobre mim
 Sou apaixonado por tecnologia, programação e inovação. Atualmente curso **Sistemas de Informação** na UEG e trabalho com foco em desenvolvimento web e soluções baseadas em dados e IA.
+
+<p align="center" style="pointer-events: none;">
+  <img src="https://media.giphy.com/media/LmN8gqU0w5x3jJv5gC/giphy.gif" alt="GIF de programação" />
+</p>
 
 ---
 
