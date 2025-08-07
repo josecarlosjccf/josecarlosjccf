@@ -1,15 +1,13 @@
 <!-- PERFIL DE USUÁRIO - JOSÉ CARLOS -->
 
-<h1 align="center">🌌 José Carlos</h1>
+<h1 align="center" style="pointer-events: none;">🌌 José Carlos</h1>
+
+<p align="center" style="pointer-events: none;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=header" alt="cabeçalho" />
+</p>
 
 <p align="center">
   Estudante de <strong>Sistemas de Informação</strong> | Foco em <strong>Desenvolvimento Web</strong> e <strong>Inteligência Artificial</strong>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=header"/>
 </p>
 
 ---
@@ -64,6 +62,14 @@ Sou apaixonado por tecnologia, programação e inovação. Atualmente curso **Si
 
 ---
 
+## 🧠 Linguagens Mais Usadas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosjccf&layout=compact&theme=tokyonight&bg_color=00000000&text_color=228B22&title_color=8000ff&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
 ## 🌐 Redes
 
 <p align="center">
@@ -77,6 +83,6 @@ Sou apaixonado por tecnologia, programação e inovação. Atualmente curso **Si
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=footer"/>
+<p align="center" style="pointer-events: none;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8000ff&height=120&section=footer" alt="rodapé" />
 </p>
