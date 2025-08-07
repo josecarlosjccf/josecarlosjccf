@@ -13,10 +13,6 @@
 ## 👨‍💻 Sobre mim
 Sou apaixonado por tecnologia, programação e inovação. Atualmente curso **Sistemas de Informação** na UEG e trabalho com foco em desenvolvimento web e soluções baseadas em dados e IA.
 
-<p align="center" style="pointer-events: none;">
-  <img src="https://media.giphy.com/media/LmN8gqU0w5x3jJv5gC/giphy.gif" alt="GIF de programação" />
-</p>
-
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -76,6 +72,10 @@ Sou apaixonado por tecnologia, programação e inovação. Atualmente curso **Si
   <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-candido-73b723235/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-228B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+</p>
+
+<p align="center" style="pointer-events: none;">
+  <img src="https://media.giphy.com/media/f73cJCs9PhkoZDo9yQ/giphy.gif" alt="GIF de computador e programação" />
 </p>
 
 <p align="center" style="pointer-events: none;">
