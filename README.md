@@ -75,7 +75,7 @@ Sou apaixonado por tecnologia, programação e inovação. Atualmente curso **Si
 </p>
 
 <p align="center" style="pointer-events: none;">
-  <img src="https://media.giphy.com/media/f73cJCs9PhkoZDo9yQ/giphy.gif" alt="GIF de computador e programação" />
+  <img src="https://media.giphy.com/media/Q81NCSnIpw9d6/giphy.gif" alt="GIF de computador e programação" />
 </p>
 
 <p align="center" style="pointer-events: none;">
