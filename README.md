@@ -1,6 +1,10 @@
 <h1 align="center">Olá, sou o José Carlos! 👋</h1>
 
 <div align="center">
+  <p>Estudante de <strong>Sistemas de Informação</strong> | Foco em <strong>Desenvolvimento Web</strong> e <strong>Inteligência Artificial</strong></p>
+</div>
+
+<div align="center">
   <a href="https://github.com/josecarlosjccf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-228B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -33,11 +37,11 @@ Sou um apaixonado por tecnologia, programação e inovação. Atualmente, sou es
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josecarlosjccf&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=191919&icon_color=228B22&text_color=FFFFFF&rank_icon=github" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josecarlosjccf&show_icons=true&theme=dark&hide_title=true&hide_border=true&bg_color=00000000&icon_color=228B22&text_color=228B22" alt="Estatísticas do GitHub" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josecarlosjccf&theme=dark&hide_border=true&background=191919&stroke=228B22&ring=228B22" alt="Estatísticas de Streak do GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josecarlosjccf&bg_color=00000000&color=228B22&line=228B22&point=228B22&area=true&hide_border=true" alt="Gráfico de Atividades GitHub" />
 </div>
 
 ---
@@ -45,11 +49,11 @@ Sou um apaixonado por tecnologia, programação e inovação. Atualmente, sou es
 ### 🧠 Linguagens Mais Usadas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosjccf&layout=compact&theme=dark&bg_color=191919&text_color=FFFFFF&title_color=228B22&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosjccf&layout=compact&theme=dark&bg_color=00000000&text_color=228B22&title_color=228B22&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-<p align="center">
+<p align="center" style="pointer-events: none;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=228B22&height=120&section=footer" alt="rodapé" />
 </p>
