@@ -23,13 +23,13 @@ Sou um apaixonado por tecnologia, programação e inovação. Atualmente, sou es
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-228B22?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-228B22?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-228B22?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/MySQL-228B22?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Node.js-228B22?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/Git-228B22?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VSCode-228B22?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-228B22?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-228B22?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"></a>
+  <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.shields.io/badge/C-228B22?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-228B22?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
+  <a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-228B22?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-228B22?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-228B22?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"></a>
 </p>
 
 ---
