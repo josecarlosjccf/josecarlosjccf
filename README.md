@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia, inovação e por resolver problemas através do c
 
 - 🚀 Focado em expandir meus conhecimentos em **Desenvolvimento Web** e integrações modernas.
 - 🧠 Desenvolvendo meu TCC focado na **Análise de Planilhas com IA Generativa**, unindo o poder do **Python** e da API do **Gemini**.
-- ⚡ Nas horas vagas, sou um grande fã da cultura geek, sempre acompanhando animes (como Dragon Ball e Naruto), lendo HQs da DC Comics ou jogando videogame.
+- ⚡ Nas horas vagas, sou um grande fã da cultura geek, sempre acompanhando animes (como Dragon Ball e Naruto) ou jogando videogame.
 
 ---
 
@@ -42,21 +42,18 @@ Sou apaixonado por tecnologia, inovação e por resolver problemas através do c
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas & Stack
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josecarlosjccf&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=00E676&text_color=ffffff&title_color=00E676" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosjccf&layout=compact&theme=react&hide_border=true&bg_color=0D1117&text_color=ffffff&title_color=00E676" alt="Linguagens mais usadas" width="48%" />
-</div>
+Como APIs externas de status às vezes ficam fora do ar, aqui está um resumo do meu foco atual:
 
-<br>
+> 🟢 **Foco de Estudo/Trabalho:** Inteligência Artificial & Desenvolvimento Web  
+> 🚀 **Projetos Ativos:** TCC (Python + IA) e demandas Trainee (Compass UOL)  
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josecarlosjccf&bg_color=0D1117&color=00E676&line=00E676&point=ffffff&area=true&hide_border=true" alt="Gráfico de Atividades GitHub" width="100%" />
-</div>
+#### 🟩 Minhas Principais Ferramentas
 
----
-
-<p align="center" style="pointer-events: none;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=120&section=footer" alt="rodapé" width="100%" />
-</p>
+```text
+Python     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80%
+JavaScript 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 60%
+Node.js    🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 45%
+MySQL      🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 40%
+C          🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25%
