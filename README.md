@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia, inovação e por resolver problemas através do c
 
 - 🚀 Focado em expandir meus conhecimentos em **Desenvolvimento Web** e integrações modernas.
 - 🧠 Desenvolvendo meu TCC focado na **Análise de Planilhas com IA Generativa**, unindo o poder do **Python** e da API do **Gemini**.
-- ⚡ Nas horas vagas, sou um grande fã da cultura geek, sempre acompanhando animes (como Dragon Ball e Naruto) ou jogando videogame.
+- ⚡ Nas horas vagas, sou um grande fã da cultura geek, sempre acompanhando animes (como Dragon Ball e Naruto), lendo HQs da DC Comics ou jogando videogame.
 
 ---
 
@@ -42,18 +42,20 @@ Sou apaixonado por tecnologia, inovação e por resolver problemas através do c
 
 ---
 
-### 📊 Estatísticas & Stack
+### 📈 Minhas Estatísticas
 
-Como APIs externas de status às vezes ficam fora do ar, aqui está um resumo do meu foco atual:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosjccf&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&title_color=00E676&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" width="350px" />
+</div>
 
-> 🟢 **Foco de Estudo/Trabalho:** Inteligência Artificial & Desenvolvimento Web  
-> 🚀 **Projetos Ativos:** TCC (Python + IA) e demandas Trainee (Compass UOL)  
+<br>
 
-#### 🟩 Minhas Principais Ferramentas
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josecarlosjccf&bg_color=0D1117&color=00E676&line=00E676&point=ffffff&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições" alt="Gráfico de Atividades GitHub" width="100%" />
+</div>
 
-```text
-Python     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80%
-JavaScript 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ 60%
-Node.js    🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ 45%
-MySQL      🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 40%
-C          🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 25%
+---
+
+<p align="center" style="pointer-events: none;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E676&height=120&section=footer" alt="rodapé" width="100%" />
+</p>
