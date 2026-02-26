@@ -44,10 +44,6 @@ Sou apaixonado por tecnologia, inovação e por resolver problemas através do c
 
 ### 📈 Minhas Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecarlosjccf&layout=compact&theme=dark&bg_color=0D1117&text_color=ffffff&title_color=00E676&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" width="350px" />
-</div>
-
 <br>
 
 <div align="center">
