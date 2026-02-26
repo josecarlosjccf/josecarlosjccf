@@ -24,7 +24,7 @@ Sou apaixonado por tecnologia, inovação e por resolver problemas através do c
 
 - 🚀 Focado em expandir meus conhecimentos em **Desenvolvimento Web** e integrações modernas.
 - 🧠 Desenvolvendo meu TCC focado na **Análise de Planilhas com IA Generativa**, unindo o poder do **Python** e da API do **Gemini**.
-- ⚡ Nas horas vagas, sou um grande fã da cultura geek, sempre acompanhando animes (como Dragon Ball e Naruto), lendo HQs da DC Comics ou jogando videogame.
+- ⚡ Nas horas vagas, sou um grande fã da cultura geek, sempre acompanhando animes (como Dragon Ball e Naruto) ou jogando videogame.
 
 ---
 
